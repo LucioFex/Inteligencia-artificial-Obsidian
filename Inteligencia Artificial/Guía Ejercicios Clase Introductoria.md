@@ -31,6 +31,6 @@ La solución de ciberseguridad de IBM Guardium Data Protection cuenta con múlti
 
 **Referencia**: [[Recolección de datos - Pregunta 3 - Clase introductoria]]
 
-Una idea que se me ocurre es un uso de investigación en el área de monitoreo para la industria  agropecuaria, de forma centralizada a partir de gateways de IoT (ej: MQTT), con el fin de detectar patrones y apoyar análisis exhaustivos con AI entre diferentes zonas aisladas entre sí (ya que entiendo que actualmente se están realizando de forma individual, pero no agrupada)
+Una idea que se me ocurre es un uso de investigación en el área de monitoreo para la industria  agropecuaria, de forma centralizada a partir de gateways de IoT (ej: MQTT), con el fin de detectar patrones y apoyar análisis exhaustivos con AI entre diferentes zonas aisladas entre sí (ya que entiendo que actualmente se están realizando de forma individual, pero no agrupada).
 
 
