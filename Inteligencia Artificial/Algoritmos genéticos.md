@@ -18,5 +18,4 @@ Conceptos clave:
 # [[Ejemplo de un AG - encontrando al azar la palabra 'unicornio']]
 # [[Proceso de los Algoritmos Genéticos]]
 # [[Selección de padres]]
-
-# [[Entrecruzamientp]]
+# [[Pruebas de algoritmos genéticos]]
