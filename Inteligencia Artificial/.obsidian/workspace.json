@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -254,15 +254,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1ad8f88e4bc8b9c9",
+  "active": "a08047d7f78578e4",
   "lastOpenFiles": [
-    "Pasted image 20250804203222.png",
+    "Proceso de los Algoritmos Genéticos.md",
     "Mutación.md",
+    "Pasted image 20250804203222.png",
     "Ejemplo de un AG - encontrando al azar la palabra 'unicornio'.md",
     "Selección de padres.md",
     "Entrecruzamiento.md",
     "Entrecruzamientp.md",
-    "Proceso de los Algoritmos Genéticos.md",
     "Algoritmos genéticos.md",
     "Pasted image 20250804202451.png",
     "Pasted image 20250804202305.png",
@@ -274,7 +274,6 @@
     "Pasted image 20250804195212.png",
     "Pasted image 20250804195019.png",
     "Pasted image 20250804195009.png",
-    "Pasted image 20250804194852.png",
     "Teoría del mono infinito.md",
     "Qué son los algoritmos genéticos.md",
     "Fuerza bruta.md",

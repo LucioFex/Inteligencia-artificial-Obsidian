@@ -13,7 +13,3 @@ No podemos elegir exclusivamente a los padres m√°s fuertes, ya que esto limitar√
 
 ![[Pasted image 20250804202451.png]]
 Es como una probabilidad ponderada.
-
----
-# [[Entrecruzamiento]]
-
