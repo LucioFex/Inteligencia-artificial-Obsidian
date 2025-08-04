@@ -1,4 +1,4 @@
-#clase_2
+#clase_2 #ag_tag
 
 https://www.youtube.com/watch?v=5vwBQ_KoD60&ab_channel=RingaTech
 ![[Pasted image 20250804185029.png]]
@@ -13,6 +13,10 @@ Conceptos clave:
 
 # [[Qué son los algoritmos genéticos]]
 
-# [[Elementos de la seleccion Natural de Darwin]]
+# [[Elementos de la selección Natural de Darwin]]
 
 # [[Ejemplo de un AG - encontrando al azar la palabra 'unicornio']]
+# [[Proceso de los Algoritmos Genéticos]]
+# [[Selección de padres]]
+
+# [[Entrecruzamientp]]
