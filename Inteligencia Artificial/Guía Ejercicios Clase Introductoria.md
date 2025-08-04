@@ -6,7 +6,7 @@
 
 **Referencia**: [[Recolección de datos - Pregunta 1 - Clase introductoria]]
 
-La inteligencia artificial es un tipo de tecnología que posibilita la simulación de la inteligencia humana (capacidad de aprendizaje, razonamiento y problem problem solving skills) a través de múltiples métodos, partiendo de una base enteramente estadística.
+La inteligencia artificial es un tipo de tecnología que posibilita la simulación de la inteligencia humana (capacidad de aprendizaje, razonamiento y problem problem solving skills) a través de múltiples métodos, partiendo de una base enteramente estadística y un modelo predictivo.
 
 ---
 
