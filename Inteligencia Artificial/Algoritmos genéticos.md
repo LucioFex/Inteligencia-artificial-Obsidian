@@ -13,4 +13,6 @@ Conceptos clave:
 
 # [[Qué son los algoritmos genéticos]]
 
-[[Elementos de la seleccion Natural de Darwin]]
+# [[Elementos de la seleccion Natural de Darwin]]
+
+# [[Ejemplo de un AG - encontrando al azar la palabra 'unicornio']]

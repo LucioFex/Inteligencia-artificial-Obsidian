@@ -10,3 +10,5 @@ Las características más beneficiosas se van acumulando a través de múltiples
 
 # Entonces
 La Selección Natural es el proceso por el cual los organismos con características más adaptadas al medio logran sobrevivir y reproducirse, transmitiendo dichas características a su descendencia.
+
+# [[Ejemplo de un AG - encontrando al azar la palabra 'unicornio']]
