@@ -1,12 +1,10 @@
-#clase_2 
-
+#clase_2 #ag_tag
 
 # La Teoría del Mono Infinito: Una Exploración de Probabilidades
 La Teoría del Mono Infinito es un concepto que explora la idea del azar y la probabilidad. Sugiere que un mono que presionara teclas al azar en una máquina de escribir durante una cantidad infinita de tiempo eventualmente podría reproducir cualquier texto dado, incluyendo obras maestras literarias como Hamlet de Shakespeare o Don Quijote de Cervantes.
 ![[Pasted image 20250804193153.png | 300]]
 
 **To be or not be that is the question**
-
 ## ¿Cuánto tiempo me puede llevar hallar esa frase al azar?
 ![[Pasted image 20250804192124.png | 400]]
 ![[Pasted image 20250804193219.png | 500]]

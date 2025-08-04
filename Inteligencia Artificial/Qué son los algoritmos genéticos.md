@@ -1,4 +1,4 @@
-#clase_2
+#clase_2 #ag_tag
 # Inspiración en la evolución natural
 Los algoritmos genéticos se basan en el proceso de evolución natural, donde los organismos más adaptados tienen mayores probabilidades de sobrevivir y reproducirse.
 # Optimización de problemas donde no funciona la fuerza bruta
@@ -9,4 +9,4 @@ Los algoritmos genéticos comienzan con una población inicial de posibles soluc
 # Conclusión
 Los algoritmos genéticos son una poderosa herramienta de la Inteligencia Artificial que, inspirada en la evolución natural, permite encontrar soluciones óptimas a problemas complejos. Su aplicación en diversos campos demuestra su gran potencial y la importancia de que los estudiantes de IA se familiaricen con estos conceptos.
 
-# [[Elementos de la seleccion Natural de Darwin]]
+# [[Elementos de la selección Natural de Darwin]]

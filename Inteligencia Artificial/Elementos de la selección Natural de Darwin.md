@@ -1,4 +1,4 @@
-#clase_2 
+#clase_2 #ag_tag
 ## Herencia
 Cada organismo posee características únicas que son transmitidas a su descendencia
 ## Supervivencia del más Apto
