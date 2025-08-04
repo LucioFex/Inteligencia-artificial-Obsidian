@@ -18,5 +18,4 @@
 ![[Pasted image 20250804195355.png]]
 
 ---
-
 # [[Proceso de los Algoritmos Genéticos]]
