@@ -1,2 +1,2 @@
-# Metodolog-a-de-Dise-o-de-Sistemas-Obsidian
+# Metodología de diseño de sistemas
 Metodología de Diseño de Sistemas (Obsidian)
