@@ -1,5 +1,7 @@
 #clase_2 #ag_tag 
 
+# Hagamos algunas pruebas: Ej del Sheakspere
+
 ![[Pasted image 20250804203342.png | 300]]
 https://editor.p5js.org/codingtrain/sketches/GUZKUFxKo
 
@@ -21,5 +23,11 @@ Disminuimos el tamaño de la población para observar cómo afecta al algoritmo 
 Disminuimos el tamaño de la población para observar cómo afecta al algoritmo en términos de convergencia y eficiencia.
 
 ---
+# Resultado tras reajustes
 
 ![[Pasted image 20250804203920.png | 600]]
+- Tip: **Con Mutation rate = 1** es un caso extremo muy similar a fuerza bruta, pero peor, porque a diferencia de este, hay casos repetidos
+
+---
+
+# [[Generación de la Población Inicial]]
