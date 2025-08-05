@@ -78,21 +78,21 @@
             }
           },
           {
-            "id": "107434efe6da7215",
+            "id": "e3d0bd456cf4b04e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mutación.md",
+                "file": "Aplicaciones de los Algoritmos Genéticos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mutación"
+              "title": "Aplicaciones de los Algoritmos Genéticos"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -268,14 +268,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1fc2d6f719971d6f",
+  "active": "e3d0bd456cf4b04e",
   "lastOpenFiles": [
-    "Reemplazo de la nueva población.md",
+    "Pasted image 20250804213612.png",
+    "Pasted image 20250804213602.png",
+    "Pasted image 20250804213552.png",
+    "Aplicaciones de los Algoritmos Genéticos.md",
     "Algunas Ventajas de los Algoritmos Genéticos.md",
+    "Mutación.md",
+    "Reemplazo de la nueva población.md",
     "Pasted image 20250804213140.png",
     "Selección de los Padres.md",
     "Evaluación de la Aptitud.md",
-    "Mutación.md",
     "Pasted image 20250804212350.png",
     "Entrecruzamiento.md",
     "Pasted image 20250804212317.png",
@@ -287,11 +291,9 @@
     "Pasted image 20250804211331.png",
     "Pasted image 20250804211309.png",
     "Algoritmos genéticos.md",
-    "Pasted image 20250804211135.png",
     "asdad.md",
     "Pruebas de algoritmos genéticos.md",
     "Elementos de la selección Natural de Darwin.md",
-    "Pasted image 20250804210334.png",
     "Proceso de los Algoritmos Genéticos.md",
     "Ejemplo de un AG - encontrando al azar la palabra 'unicornio'.md",
     "Teoría del mono infinito.md",
@@ -303,7 +305,6 @@
     "Welcome.md",
     "Recolección de datos - Pregunta 3 - Clase introductoria.md",
     "Recolección de datos - Pregunta 1 - Clase introductoria.md",
-    "Clase 1.md",
-    "Hola, soy una nota.md"
+    "Clase 1.md"
   ]
 }
