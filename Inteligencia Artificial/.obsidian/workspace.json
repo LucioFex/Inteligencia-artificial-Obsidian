@@ -36,21 +36,63 @@
             }
           },
           {
+            "id": "2d2ad8b4718a3f26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selección de los Padres.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Selección de los Padres"
+            }
+          },
+          {
+            "id": "ad1d036a6ec13524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reemplazo de la nueva población.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reemplazo de la nueva población"
+            }
+          },
+          {
+            "id": "1fc2d6f719971d6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algunas Ventajas de los Algoritmos Genéticos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algunas Ventajas de los Algoritmos Genéticos"
+            }
+          },
+          {
             "id": "107434efe6da7215",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entrecruzamiento.md",
+                "file": "Mutación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entrecruzamiento"
+              "title": "Mutación"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -226,13 +268,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "107434efe6da7215",
+  "active": "1fc2d6f719971d6f",
   "lastOpenFiles": [
-    "Pasted image 20250804212317.png",
+    "Reemplazo de la nueva población.md",
+    "Algunas Ventajas de los Algoritmos Genéticos.md",
+    "Pasted image 20250804213140.png",
     "Selección de los Padres.md",
+    "Evaluación de la Aptitud.md",
+    "Mutación.md",
+    "Pasted image 20250804212350.png",
+    "Entrecruzamiento.md",
+    "Pasted image 20250804212317.png",
     "Pasted image 20250804212102.png",
     "Pasted image 20250804212052.png",
-    "Evaluación de la Aptitud.md",
     "Pasted image 20250804211838.png",
     "Generación de la Población Inicial.md",
     "Selección de padres.md",
@@ -244,15 +292,10 @@
     "Pruebas de algoritmos genéticos.md",
     "Elementos de la selección Natural de Darwin.md",
     "Pasted image 20250804210334.png",
-    "Pasted image 20250804203920.png",
-    "Pasted image 20250804203916.png",
     "Proceso de los Algoritmos Genéticos.md",
     "Ejemplo de un AG - encontrando al azar la palabra 'unicornio'.md",
-    "Mutación.md",
-    "Entrecruzamiento.md",
     "Teoría del mono infinito.md",
     "Qué son los algoritmos genéticos.md",
-    "Pasted image 20250804203358.png",
     "Entrecruzamientp.md",
     "Fuerza bruta.md",
     "Anotaciones clase 2.md",

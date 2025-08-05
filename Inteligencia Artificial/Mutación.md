@@ -15,3 +15,10 @@ Modificar al azar, subiendo o bajando un caracter del alfabeto, etc.
 - Variación
 - Acumulación de Cambios
 ![[Pasted image 20250804203222.png]]
+
+---
+
+## Adicional
+## Se recorre cada elemento del nuevo individuo. Sólo en un porcentaje de las veces (mutation rate), éste se modifica por un caracter cualquiera al azar
+
+![[Pasted image 20250804212350.png | 300]]

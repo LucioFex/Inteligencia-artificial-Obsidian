@@ -16,3 +16,7 @@ De esta manera, voy a tener mayor probabilidad de seleccionar un individuo que t
 ---
 # Rueda de la fortuna
 ![[Pasted image 20250804212102.png]]
+
+---
+
+# [[Reemplazo de la nueva población]]
