@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eebf6e2400709637",
+        "id": "a95babe18dc05315",
         "type": "tabs",
         "children": [
           {
-            "id": "16988e5281cb1847",
+            "id": "2d3103d7198b5476",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algoritmos genéticos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Algoritmos genéticos"
+              "title": "New tab"
             }
           }
         ]
@@ -197,14 +193,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "16988e5281cb1847",
+  "active": "2d3103d7198b5476",
   "lastOpenFiles": [
+    "Algoritmos genéticos.md",
+    "Teoría del mono infinito.md",
+    "Aplicaciones de los Algoritmos Genéticos.md",
     "Generación de la Población Inicial.md",
     "Evaluación de la Aptitud.md",
     "Selección de los Padres.md",
     "Reemplazo de la nueva población.md",
     "Algunas Ventajas de los Algoritmos Genéticos.md",
-    "Aplicaciones de los Algoritmos Genéticos.md",
     "Pasted image 20250804213612.png",
     "Pasted image 20250804213602.png",
     "Pasted image 20250804213552.png",
@@ -218,13 +216,11 @@
     "Pasted image 20250804211838.png",
     "Selección de padres.md",
     "Pasted image 20250804211331.png",
-    "Algoritmos genéticos.md",
     "asdad.md",
     "Pruebas de algoritmos genéticos.md",
     "Elementos de la selección Natural de Darwin.md",
     "Proceso de los Algoritmos Genéticos.md",
     "Ejemplo de un AG - encontrando al azar la palabra 'unicornio'.md",
-    "Teoría del mono infinito.md",
     "Qué son los algoritmos genéticos.md",
     "Entrecruzamientp.md",
     "Fuerza bruta.md",
