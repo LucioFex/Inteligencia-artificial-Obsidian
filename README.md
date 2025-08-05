@@ -1,2 +1,2 @@
-# Metodología de diseño de sistemas
-Metodología de Diseño de Sistemas (Obsidian)
+# Inteligencia Artificial
+Inteligencia Artificial (Obsidian)
