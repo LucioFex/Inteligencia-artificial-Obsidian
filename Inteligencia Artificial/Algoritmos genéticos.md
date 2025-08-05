@@ -8,3 +8,5 @@ Conceptos clave:
 - Mutación
 - Iteración
 - "See"
+
+# [[Teoría del mono infinito]]
