@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "84f234420b4013ff",
+        "id": "eebf6e2400709637",
         "type": "tabs",
         "children": [
           {
-            "id": "f3568b9fd243b91d",
+            "id": "16988e5281cb1847",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generación de la Población Inicial.md",
+                "file": "Algoritmos genéticos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generación de la Población Inicial"
-            }
-          },
-          {
-            "id": "b9277a276fdcf7fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evaluación de la Aptitud.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Evaluación de la Aptitud"
-            }
-          },
-          {
-            "id": "2d2ad8b4718a3f26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Selección de los Padres.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Selección de los Padres"
-            }
-          },
-          {
-            "id": "ad1d036a6ec13524",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reemplazo de la nueva población.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reemplazo de la nueva población"
-            }
-          },
-          {
-            "id": "1fc2d6f719971d6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algunas Ventajas de los Algoritmos Genéticos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Algunas Ventajas de los Algoritmos Genéticos"
-            }
-          },
-          {
-            "id": "e3d0bd456cf4b04e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aplicaciones de los Algoritmos Genéticos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aplicaciones de los Algoritmos Genéticos"
+              "title": "Algoritmos genéticos"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -268,28 +197,27 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e3d0bd456cf4b04e",
+  "active": "16988e5281cb1847",
   "lastOpenFiles": [
+    "Generación de la Población Inicial.md",
+    "Evaluación de la Aptitud.md",
+    "Selección de los Padres.md",
+    "Reemplazo de la nueva población.md",
+    "Algunas Ventajas de los Algoritmos Genéticos.md",
+    "Aplicaciones de los Algoritmos Genéticos.md",
     "Pasted image 20250804213612.png",
     "Pasted image 20250804213602.png",
     "Pasted image 20250804213552.png",
-    "Aplicaciones de los Algoritmos Genéticos.md",
-    "Algunas Ventajas de los Algoritmos Genéticos.md",
     "Mutación.md",
-    "Reemplazo de la nueva población.md",
     "Pasted image 20250804213140.png",
-    "Selección de los Padres.md",
-    "Evaluación de la Aptitud.md",
     "Pasted image 20250804212350.png",
     "Entrecruzamiento.md",
     "Pasted image 20250804212317.png",
     "Pasted image 20250804212102.png",
     "Pasted image 20250804212052.png",
     "Pasted image 20250804211838.png",
-    "Generación de la Población Inicial.md",
     "Selección de padres.md",
     "Pasted image 20250804211331.png",
-    "Pasted image 20250804211309.png",
     "Algoritmos genéticos.md",
     "asdad.md",
     "Pruebas de algoritmos genéticos.md",
