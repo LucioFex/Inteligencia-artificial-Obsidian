@@ -1,5 +1,6 @@
 #clase_2 #ag_tag 
 
+La generación de una población inicial diversa y adecuada es fundamental para la optimización del algoritmo evolutivo hacia el objetivo deseado
 ## Parámetros Iniciales
 Se inicializan target (objetivo), popmax (tamaño de la población) y mutationRate (tasa de mutación) como parámetros iniciales del algoritmo
 ## Población Inicial
@@ -8,6 +9,9 @@ La población population se genera desde la Population
 La población es un array de elementos DNA, cuya longitud es el tamaño de la población
 ## DNA
 El DNA es un array de caracteres, cuya longitud es el tamaño del objetivo
+
+---
+# [[Evaluación de la Aptitud]]
 
 ---
 # Tomamos el código JavaScript del link visto
