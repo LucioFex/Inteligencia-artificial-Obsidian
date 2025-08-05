@@ -11,7 +11,7 @@
       "query": "ag_tag",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 5427424
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 389,
-  "scale": 0.7132754626224482,
+  "scale": 1.0000000000000118,
   "close": false
 }
