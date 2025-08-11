@@ -16,7 +16,7 @@
 
 #### 6. Diseño dirigido por usuario
 
-## Evolución Continua 
+## **Evolución Continua** 
 
 #### 1. Nacimiento de nuevos individuos
 #### 2. La generación no se reemplaza en forma completa
