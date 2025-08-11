@@ -15,3 +15,10 @@ Para evitar pisar individuos de la generación actual. Esto no sucedía en el al
 ## 5. Modificamos el final del algoritmo cambiando el ">" por ">="
 Debido al incremento artificial de 1% a la función de aptitud
 
+
+---
+
+### Ejemplo de un algoritmo durante la clase
+
+![[Pasted image 20250811192414.png]]
+- Este es un ejemplo de un algoritmo genético que va más rápido, porque se evita la creación del Mating Pool.
