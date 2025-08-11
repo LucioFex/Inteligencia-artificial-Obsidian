@@ -21,3 +21,21 @@ https://rogerjohansson.blog/2008/12/07/genetic-programming-evolution-of-mona-lis
 
 ![[Pasted image 20250811195914.png | 500]]
 
+---
+
+# Otros casos de Uso: Ruta de Avioncitos ![[Pasted image 20250811200143.png | 50]]
+
+![[Pasted image 20250811200154.png]]
+![[Pasted image 20250811200519.png]]
+## **a.** Función de Aptitud
+Tiempo y Distancia
+Premios: llega a destino
+Castigos: toca el obstáculo
+## **b.** ADN
+Ángulo, Vector y Fuerza
+## **c.** Código
+https://editor.p5js.org/codingtrain/sketches/BOTCxBDbO
+
+---
+
+# [[Fenotipo y Genotipo]]
