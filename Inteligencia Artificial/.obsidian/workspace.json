@@ -22,35 +22,35 @@
             }
           },
           {
-            "id": "d5f43fb5b1cf07eb",
+            "id": "312f270f151657d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Código de Aceptar-Rechazar.md",
+                "file": "Algoritmos genéticos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Código de Aceptar-Rechazar"
+              "title": "Algoritmos genéticos"
             }
           },
           {
-            "id": "52325e4e29518ca1",
+            "id": "b4722d979fe47e23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Método del Dardo.md",
+                "file": "Casos de uso aplicados - Algoritmos genéticos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Método del Dardo"
+              "title": "Casos de uso aplicados - Algoritmos genéticos"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,34 +226,36 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "d5f43fb5b1cf07eb",
+  "active": "b4722d979fe47e23",
   "lastOpenFiles": [
-    "Método del Dardo.md",
-    "Cómo podemos seleccionar los padres.md",
+    "Pasted image 20250811194217.png",
+    "Pasted image 20250811194216.png",
+    "Pasted image 20250811194056.png",
+    "Pasted image 20250811194050.png",
+    "Pasted image 20250811194049.png",
+    "Pasted image 20250811194039.png",
+    "Casos de uso aplicados - Algoritmos genéticos.md",
+    "Algoritmos genéticos.md",
+    "Optimizando el modelo.md",
+    "Aplicaciones de los Algoritmos Genéticos.md",
+    "Selección de los Padres.md",
     "Selección de padres.md",
+    "Método del Dardo.md",
+    "Pasted image 20250811193401.png",
+    "Pasted image 20250811192944.png",
+    "Pasted image 20250811192924.png",
     "Código de Aceptar-Rechazar.md",
+    "Cómo podemos seleccionar los padres.md",
     "Aceptar-Rechazar.md",
     "Pasted image 20250811192414.png",
     "Pasted image 20250811192407.png",
     "Recolección de datos - Pregunta 1 - Clase introductoria.md",
     "Guía Ejercicios Clase Introductoria.md",
-    "Pasted image 20250811192014.png",
-    "Pasted image 20250811191732.png",
     "Mejorando la función de aptitud.md",
-    "Optimizando el modelo.md",
     "Clase 3.md",
-    "Pasted image 20250811191104.png",
-    "Pasted image 20250811190911.png",
-    "Pasted image 20250811190909.png",
-    "Pasted image 20250811190900.png",
-    "Pasted image 20250811190737.png",
-    "Pasted image 20250811190640.png",
-    "Aplicaciones de los Algoritmos Genéticos.md",
-    "Algoritmos genéticos.md",
     "Teoría del mono infinito.md",
     "Generación de la Población Inicial.md",
     "Evaluación de la Aptitud.md",
-    "Selección de los Padres.md",
     "Reemplazo de la nueva población.md",
     "Algunas Ventajas de los Algoritmos Genéticos.md",
     "Mutación.md",
@@ -261,8 +263,6 @@
     "asdad.md",
     "Pruebas de algoritmos genéticos.md",
     "Elementos de la selección Natural de Darwin.md",
-    "Proceso de los Algoritmos Genéticos.md",
-    "Ejemplo de un AG - encontrando al azar la palabra 'unicornio'.md",
-    "Qué son los algoritmos genéticos.md"
+    "Proceso de los Algoritmos Genéticos.md"
   ]
 }
