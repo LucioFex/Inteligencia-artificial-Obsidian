@@ -20,3 +20,5 @@ De esta manera, voy a tener mayor probabilidad de seleccionar un individuo que t
 ---
 
 # [[Reemplazo de la nueva población]]
+
+# [[Selección de los Padres]]

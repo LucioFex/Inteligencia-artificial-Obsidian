@@ -10,3 +10,7 @@ Conceptos clave:
 - "See"
 
 # [[Teoría del mono infinito]]
+
+---
+
+[[Casos de uso aplicados - Algoritmos genéticos]]

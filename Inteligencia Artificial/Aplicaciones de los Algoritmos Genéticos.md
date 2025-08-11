@@ -12,4 +12,4 @@ Algoritmos genéticos utilizados en la robótica para controlar y optimizar el m
 
 ---
 
-[[Optimizando el modelo]]
+# [[Optimizando el modelo]]
