@@ -13,4 +13,5 @@ Conceptos clave:
 
 ---
 
-[[Casos de uso aplicados - Algoritmos genéticos]]
+# [[Casos de uso aplicados - Algoritmos genéticos]]
+# [[Algoritmos Genéticos No Tradicionales]]
