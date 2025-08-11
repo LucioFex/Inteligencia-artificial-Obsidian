@@ -9,3 +9,7 @@ Algoritmos genéticos aplicados en el diseño de productos, como el desarrollo d
 ## Robótica y Control de Sistemas
 Algoritmos genéticos utilizados en la robótica para controlar y optimizar el movimiento y comportamiento de los robots.
 ![[Pasted image 20250804213612.png | 300]]
+
+---
+
+[[Optimizando el modelo]]
