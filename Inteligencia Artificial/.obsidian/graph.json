@@ -5,13 +5,27 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "ag_tag",
+      "query": "clase_1",
       "color": {
         "a": 1,
-        "rgb": 5427424
+        "rgb": 10089024
+      }
+    },
+    {
+      "query": "clase_2",
+      "color": {
+        "a": 1,
+        "rgb": 5166319
+      }
+    },
+    {
+      "query": "clase_3",
+      "color": {
+        "a": 1,
+        "rgb": 16762183
       }
     }
   ],
@@ -25,6 +39,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 389,
-  "scale": 0.5087618855792676,
-  "close": true
+  "scale": 0.508761885579268,
+  "close": false
 }
