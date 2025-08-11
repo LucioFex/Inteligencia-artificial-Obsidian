@@ -18,3 +18,6 @@ La forma en que se codifica el ADN, es decir, cómo se representa la solución p
 ¿Y qué pasa con la función de aptitud?
 ### Desarrollo del caso
 https://rogerjohansson.blog/2008/12/07/genetic-programming-evolution-of-mona-lisa/
+
+![[Pasted image 20250811195914.png | 500]]
+
