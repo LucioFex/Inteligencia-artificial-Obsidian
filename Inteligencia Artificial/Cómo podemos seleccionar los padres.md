@@ -7,5 +7,7 @@
 - Entonces...¿cuál es el que nos conviene utilizar?
 ![[Pasted image 20250811191104.png | 200]]
 
----
-# [[Aceptar-Rechazar]]
+# Métodos de selección de padres:
+- # [[Aceptar-Rechazar]]
+- # [[Método del Dardo]]
+
