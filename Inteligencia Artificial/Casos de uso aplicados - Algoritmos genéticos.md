@@ -38,4 +38,4 @@ https://editor.p5js.org/codingtrain/sketches/BOTCxBDbO
 
 ---
 
-# [[Fenotipo y Genotipo]]
+# [[ADN - Fenotipo y Genotipo]]
