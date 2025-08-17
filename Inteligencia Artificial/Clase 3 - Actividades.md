@@ -21,8 +21,8 @@ problema mediante AG.
 ![[Imagen de WhatsApp 2025-08-16 a las 20.03.42_ab256a5e.jpg]]
 Este caso de uso se inspira en el videojuego "Creatures" de 1996 de parte de Steve Grand. El objetivo del juego es criar y enseñarle a criaturas virtuales llamadas "Norns" a sobrevivir en un ecosistema complejo. Para esto se utilizan una serie de algoritmos genéticos altamente complejos (adjuntos junto a los papers oficiales del autor en la sección "*Contenido adicional o de referencia sobre Creatures (1996)*"). Dado que el ejercicio solicitado no precisa ser tan complejo ni extenso, realizaré un algoritmo genétic con pseudo código para evolucionar los comportamientos de los norns, permitiéndoles aprender de forma auónoma a encontrar comida y evitar peligros.
 
-*Imagen de un Norn.*
 ![[Pasted image 20250816210209.png | 300]]
+*Imagen de un Norn.*
 #### **1**. ADN: Genotipo y Fenotipo
 Para resolver este problema, vamos a definir la genética de los Norns de esta manera:
 - **Genotipo:** Va a ser el código genético que define el comportamiento del Norn. Lo vamos a representar como una serie de genes, donde cada uno va a ser un "vector de fuerza y direccionamiento" que se va a activar bajo determinadas circunstancias (ej: cuando el bichito ve comida).
