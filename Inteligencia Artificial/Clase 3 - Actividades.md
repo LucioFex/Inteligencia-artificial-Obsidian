@@ -96,7 +96,7 @@ FUNCIÓN mutar(norn, tasa_mutacion):
 Una pequeña probabilidad de mutación (ej: 1%) lo que hace es evitar la pérdida de diversidad genética y posibilita la aparición de nueva habilidades (pequeños mutantes podríamos decir).
 
 ![[Pasted image 20250816214032.png]]
-*Imagen con múltiples tipos de Norn.*
+*Imagen de múltiples tipos de Norn.*
 #### **6**. Parámetros y Composición de la Población
 - **Población inicial**: Se va a crear una población de Norns con ADN completamente aleatorio.
 - **Tamaño de la población:** Un número moderado, como 100 Norns, podría ser suficiente para tener tener variedad sin sobrecargar la simulación.
