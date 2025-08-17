@@ -31,3 +31,5 @@ Disminuimos el tamaño de la población para observar cómo afecta al algoritmo 
 ---
 
 # [[Generación de la Población Inicial]]
+
+# [[Parámetros de configuración de un algoritmo genético]]
