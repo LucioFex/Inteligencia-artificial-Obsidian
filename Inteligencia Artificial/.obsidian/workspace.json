@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mona lisa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,9 +229,13 @@
   },
   "active": "d656a40f140f7a47",
   "lastOpenFiles": [
-    "Casos de uso aplicados - Algoritmos genéticos.md",
-    "Clase 3 - Actividades.md",
     "ADN - Fenotipo y Genotipo.md",
+    "Clase 3 - Actividades.md",
+    "Pasted image 20250816210546.png",
+    "Casos de uso aplicados - Algoritmos genéticos.md",
+    "Código de Aceptar-Rechazar.md",
+    "Pasted image 20250816210209.png",
+    "Imagen de WhatsApp 2025-08-16 a las 20.03.42_ab256a5e.jpg",
     "Anotaciones a las que llegué a ver.md",
     "Algoritmos Genéticos No Tradicionales.md",
     "Algoritmos genéticos.md",
@@ -243,14 +247,10 @@
     "Pasted image 20250811211728.png",
     "Pasted image 20250811211627.png",
     "Pasted image 20250811211613.png",
-    "Pasted image 20250811200519.png",
-    "Pasted image 20250811200430.png",
-    "Pasted image 20250811200423.png",
     "Optimizando el modelo.md",
     "Selección de los Padres.md",
     "Selección de padres.md",
     "Método del Dardo.md",
-    "Código de Aceptar-Rechazar.md",
     "Cómo podemos seleccionar los padres.md",
     "Aceptar-Rechazar.md",
     "Recolección de datos - Pregunta 1 - Clase introductoria.md",
@@ -263,7 +263,6 @@
     "Reemplazo de la nueva población.md",
     "Algunas Ventajas de los Algoritmos Genéticos.md",
     "Mutación.md",
-    "Entrecruzamiento.md",
-    "asdad.md"
+    "Entrecruzamiento.md"
   ]
 }
