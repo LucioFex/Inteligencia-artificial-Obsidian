@@ -18,7 +18,9 @@ problema mediante AG.
 
 #### **Caso de Uso**: Supervivencia de los Norns en "Creatures" (1996)
 ![[Imagen de WhatsApp 2025-08-16 a las 20.03.42_ab256a5e.jpg]]
-Este caso de uso se inspira en el videojuego "Creatures" de 1996 de parte de Steve Grand. El objetivo del juego es criar y enseñarle a criaturas virtuales llamadas "Norns" a sobrevivir en un ecosistema complejo. Para esto se utilizan una serie de algoritmos genéticos altamente complejos (adjuntos junto a los papers oficiales del autor en la sección "*Adicional: 7 Contenido adicional/referencia sobre Creatures (1996)*").
+Este caso de uso se inspira en el del videojuego "Creatures" de 1996 de parte de Steve Grand (pionero en algoritmos genéticos en el contexto del entretenimiento y avances científicos de los 90s)
+
+El objetivo del juego es criar y enseñarle a criaturas virtuales llamadas "Norns" a sobrevivir en un ecosistema complejo. Para esto se utilizan una serie de algoritmos genéticos altamente complejos (adjuntos junto a los papers oficiales del autor en la sección "*Contenido adicional/referencia sobre Creatures (1996)*").
 
 Dado que el ejercicio solicitado no precisa ser tan complejo ni extenso, realizaré un algoritmo genétic con pseudo código para evolucionar los comportamientos de los norns, permitiéndoles aprender de forma auónoma a encontrar comida y evitar peligros.
 
