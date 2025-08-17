@@ -83,16 +83,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Casos de uso aplicados - Algoritmos genéticos.md",
+                "file": "Parámetros de configuración de un algoritmo genético.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Casos de uso aplicados - Algoritmos genéticos"
+              "title": "Parámetros de configuración de un algoritmo genético"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -269,13 +269,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d656a40f140f7a47",
+  "active": "4d1fc11928eec432",
   "lastOpenFiles": [
+    "Recolección de datos - Pregunta 1 - Clase introductoria.md",
+    "Casos de uso aplicados - Algoritmos genéticos.md",
+    "AI - Actividades resueltas (clase 3) - L.E.md",
     "Pasted image 20250817011233.png",
     "Pasted image 20250817011209.png",
     "Mating Pool.md",
     "Parámetros de configuración de un algoritmo genético.md",
-    "AI - Actividades resueltas (clase 3) - L.E.md",
     "Pruebas de algoritmos genéticos.md",
     "Generación de la Población Inicial.md",
     "Pasted image 20250816223030.png",
@@ -285,7 +287,6 @@
     "Imagen de WhatsApp 2025-08-16 a las 20.21.43_84f88cae.jpg",
     "Imagen de WhatsApp 2025-08-16 a las 20.07.06_a63a33a7.jpg",
     "Pasted image 20250816214032.png",
-    "Casos de uso aplicados - Algoritmos genéticos.md",
     "Selección de padres.md",
     "Selección de los Padres.md",
     "Optimizando el modelo.md",
@@ -299,12 +300,10 @@
     "Qué son los algoritmos genéticos.md",
     "Teoría del mono infinito.md",
     "ADN - Fenotipo y Genotipo.md",
-    "Pasted image 20250816210546.png",
     "Anotaciones a las que llegué a ver.md",
     "Algoritmos Genéticos No Tradicionales.md",
     "Algoritmos genéticos.md",
     "Aplicaciones de los Algoritmos Genéticos.md",
-    "Recolección de datos - Pregunta 1 - Clase introductoria.md",
     "Guía Ejercicios Clase Introductoria.md",
     "Mejorando la función de aptitud.md"
   ]
