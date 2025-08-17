@@ -22,4 +22,4 @@ El grupo de apareamiento es un concepto utilizado en algoritmos evolutivos y sig
 
 # [[Cómo podemos seleccionar los padres]]
 
-## [[Selección de los Padres]]
+# [[Selección de los Padres]]
