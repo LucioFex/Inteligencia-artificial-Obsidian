@@ -1,7 +1,6 @@
 #clase_3 #ag_tag 
 **Alumno**: Luciano Esteban
 # Actividad 1
-## Consigna
 Diseñar un caso de uso que se pueda resolver mediante AG, detallando como
 mínimo los siguientes puntos:
 - Explicación detallada del caso de uso
@@ -120,8 +119,12 @@ Ya con esto, el AG (algoritmo genético) va a simular la evolución darwiniana, 
 ![[Pasted image 20250816220019.png | 400]]
 *Paper 2 - Creatures: Entertainment Software Agents with Artificial Life:* https://www.researchgate.net/publication/226997131_Creatures_Entertainment_Software_Agents_with_Artificial_Lifef
 
+*Blog y video resumen de Alan Zucconi:*
+- Blog: https://www.alanzucconi.com/2020/07/27/the-ai-of-creatures/
+- Video: https://www.youtube.com/watch?v=Y-6DzI-krUQ&ab_channel=AlanZucconi
+
+
 # Actividad 2
-## Consigna
 Estamos ante el caso de una empresa que está abriendo 2 nuevas oficinas.
 En la primera, en Saveedra, cuenta con 5 espacios y en la segunda, en Pilar,
 cuenta con 8 espacios. La empresa debe asignar cada uno de los 13 espacios
@@ -136,4 +139,14 @@ empresa para garantizar una mayor productividad.
 Para tomar esa decisión utilizaremos un algoritmo genético. Este es un
 problema de optimización.
 ## Respuesta
+
+
+
+
+
+
+
+![[Pasted image 20250816223030.png | 500]]
+*Imagen referencial*
+*Fuente original*: [genetic-algorithm-path-planning](https://github.com/Yaaximus/genetic-algorithm-path-planning)
 
