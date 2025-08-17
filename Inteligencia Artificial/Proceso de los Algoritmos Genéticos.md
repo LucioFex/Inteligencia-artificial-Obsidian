@@ -15,4 +15,4 @@ Introducir pequeños cambios aleatorios en los individuos para mantener la diver
 Reemplazar la población actual con la nueva generación de individuos creados mediante selección, cruce y mutación
 
 ---
-# [[Selección de padres + Mating pool y otros]]
+# [[Selección de padres]]

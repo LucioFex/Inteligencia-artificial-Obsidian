@@ -13,13 +13,11 @@ No podemos elegir exclusivamente a los padres más fuertes, ya que esto limitar�
 
 ![[Pasted image 20250804211135.png]]
 Es como una probabilidad ponderada.
-#### Se menciona al "**Mating Pool**"
-El grupo de apareamiento es un concepto utilizado en algoritmos evolutivos y significa una población de padres para la siguiente población. El grupo de apareamiento está formado por soluciones candidatas que los operadores de selección consideran que tienen la mayor idoneidad en la población actual.
-![[Pasted image 20250804211331.png | 500]]
-
+#### Se menciona al "**[[Mating Pool]]**"
 
 ---
 
 # [[Cómo podemos seleccionar los padres]]
 
 # [[Selección de los Padres]]
+# [[Mating Pool]]
