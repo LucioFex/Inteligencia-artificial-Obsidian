@@ -1,6 +1,5 @@
 #clase_3 #ag_tag 
 **Alumno**: Luciano Esteban
-
 # Actividad 1
 ## Consigna
 Diseñar un caso de uso que se pueda resolver mediante AG, detallando como
