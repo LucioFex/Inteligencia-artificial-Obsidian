@@ -22,7 +22,7 @@ Este caso de uso se inspira en el del videojuego "Creatures" de 1996 de parte de
 
 El objetivo del juego es criar y enseñarle a criaturas virtuales llamadas "Norns" a sobrevivir en un ecosistema complejo. Para esto se utilizan una serie de algoritmos genéticos altamente complejos (adjuntos junto a los papers oficiales del autor en la sección "*Contenido adicional/referencia sobre Creatures (1996)*").
 
-Dado que el ejercicio solicitado no precisa ser tan complejo ni extenso, realizaré un algoritmo genétic con pseudo código para evolucionar los comportamientos de los norns, permitiéndoles aprender de forma auónoma a encontrar comida y evitar peligros.
+Dado que el ejercicio solicitado no precisa ser tan complejo ni extenso, realizaré un algoritmo genético con pseudo código para evolucionar los comportamientos de los Norns, permitiéndoles aprender de forma autónoma a encontrar comida y evitar peligros.
 
 ![[Pasted image 20250816210209.png | 300]]
 *Imagen de un Norn.*
