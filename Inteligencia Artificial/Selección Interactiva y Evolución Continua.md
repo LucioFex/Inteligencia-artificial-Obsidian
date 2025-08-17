@@ -1,5 +1,3 @@
-#clase_3 #ag_tag
-
 # Selección Interactiva y Evolución Continua
 
 ## **Selección interactiva**
@@ -23,8 +21,3 @@
 #### 3. Sistema fluido, continuo, realista
 #### 4. Programación más compleja
 #### 5. Es necesario incorporar concepto de muerte
-
-
-
-
-# [[Algoritmos Genéticos No Tradicionales]]
