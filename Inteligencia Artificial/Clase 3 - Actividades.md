@@ -45,6 +45,15 @@ FUNCIÓN calcular_aptitud(norn):
   RETORNAR aptitud_total
 ```
 
+Este algoritmo asigna un puntaje a cada Norn, lo cual es similar a cómo se calculaba la aptitud en el ejemplo de la frase objetivo, pero adaptado a la supervivencia
+
+![[Imagen de WhatsApp 2025-08-16 a las 20.20.38_2f9c21ba.jpg | 400]]
+*Captura de ejemplo adaptada del paper de Steve Grand.*
+
+#### **3**. Algoritmo de Selección: Rueda de la Fortuna (Mating Pool)
+
+
+
 
 ~~**Descripción del ADN: fenotipo y genotipo**~~
 **Algoritmo de la función de aptitud (pseudocódigo explicado)**
