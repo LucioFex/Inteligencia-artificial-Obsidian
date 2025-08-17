@@ -99,3 +99,9 @@ Elitismo significa **proteger al mejor explorador**. Si está activado, el mejor
         
 
 **En resumen:** Es una estrategia para **asegurar el progreso** a costa de una posible pequeña reducción en la diversidad. En la mayoría de los casos, tenerlo activado es beneficioso.
+
+
+---
+
+# [[AI - Actividades resueltas (clase 3) - L.E]]
+- El algoritmo de la actividad 2 puede ser un buen ejemplo para realizar pruebas:
