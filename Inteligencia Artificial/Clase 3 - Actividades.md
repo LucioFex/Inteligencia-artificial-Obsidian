@@ -31,10 +31,9 @@ Para resolver este problema, vamos a definir la genética de los Norns de esta m
 	- Cómo se mueve por el mapa.
 	- Su velocidad.
 	- Las decisiones que toma al interactuar con el entorno.
-
 #### **2**. Algoritmo de la Función de Aptitud
 La función de aptitud va a evaluar que tan "exitoso" es un Norn. Un Norn exitoso es aquel que se mantiene bien alimentado y explora eficientemente su entorno.
-```bash
+```python
 FUNCIÓN calcular_aptitud(norn):
   puntos_supervivencia = norn.tiempo_de_vida
   puntos_comida = norn.comida_ingerida * 10
@@ -49,24 +48,77 @@ Este algoritmo asigna un puntaje a cada Norn, lo cual es similar a cómo se calc
 
 ![[Imagen de WhatsApp 2025-08-16 a las 20.20.38_2f9c21ba.jpg | 400]]
 *Captura de ejemplo adaptada del paper de Steve Grand.*
-
 #### **3**. Algoritmo de Selección: Rueda de la Fortuna (Mating Pool)
+Para seleccionar a los padres de la siguiente generación, vamos a usar el método de la "Rueda de la Fortuna" visto en clase (Mating Pool).
+Los Norns con *mayor aptitud* van a tener más probabilidades de ser elegidos, asegurando que los rasgos exitosos se transmitan.
 
+```python
+FUNCIÓN seleccionar_padres(poblacion):
+  mating_pool = []
+  
+  PARA CADA norn EN poblacion:
+    aptitud_normalizada = norn.aptitud / aptitud_total_poblacion
+    boletos = aptitud_normalizada * 100
+    
+    REPETIR boletos VECES:
+      AÑADIR norn A mating_pool
+      
+  padre_A = ELEGIR_AL_AZAR(mating_pool)
+  padre_B = ELEGIR_AL_AZAR(mating_pool)
+  
+  RETORNAR padre_A, padre_B
+```
+Con este método estamos asegurando que los Norns con menor aptitud tengan una posibilidad pequeña de reproducirse, manteniendo la diversidad genética.
+#### **4**. Algoritmo de Crossover (Entrecruzamiento)
+El crossover combina el ADN de dos padres con el fin de crear un nuevo Norn. Para eso lo que hace es mezclas sus características genéticas.
+```python
+FUNCIÓN entrecruzar(padre_A, padre_B):
+  punto_corte = ELEGIR_AL_AZAR(0, longitud(padre_A.adn))
+  
+  adn_hijo = SUBSECUENCIA(padre_A.adn, 0, punto_corte) + 
+             SUBSECUENCIA(padre_B.adn, punto_corte, fin)
+             
+  hijo = crear_norn(adn_hijo)
+  
+  RETORNAR hijo
+```
+Este proceso (al igual que en el ejemplo de la teoría) toma una parte del ADN de cada progenitor para formar el del descendiente.
+#### **5**. Algoritmo de Mutación
+La mutación en este caso introduce cambios que son aleatorios en el ADN del nuevo Norn. Esto va a ser clave para la generación de nuevos comportamientos que podrían resultar "ventajosos".
+```python
+FUNCIÓN mutar(norn, tasa_mutacion):
+  PARA CADA gen EN norn.adn:
+    SI ELEGIR_AL_AZAR(0, 1) < tasa_mutacion:
+      gen = generar_gen_aleatorio()
+      
+  RETORNAR norn
+```
+Una pequeña probabilidad de mutación (ej: 1%) lo que hace es evitar la pérdida de diversidad genética y posibilita la aparición de nueva habilidades (pequeños mutantes podríamos decir).
 
+![[Pasted image 20250816214032.png]]
+*Imagen con múltiples tipos de Norn.*
+#### **6**. Parámetros y Composición de la Población
+- **Población inicial**: Se va a crear una población de Norns con ADN completamente aleatorio.
+- **Tamaño de la población:** Un número moderado, como 100 Norns, podría ser suficiente para tener tener variedad sin sobrecargar la simulación.
+- **Tasa de mutación**: Se va a fijar en un 1% para fomentar la exploración de nuevas soluciones sin desestabilizar los rasgos que ya fueron probados como exitosos.
+- **Condición de final**: El algoritmo se va a detener tras un número determinado de generaciones (ej: 500) o cuando la aptitud promedio de la población se estabilice, indicando uqe se ha encontrado una solución óptima.
+- **Reemplazo:** La población original va a ser completamente reemplazada por la nueva generación en cada ciclo.
 
+Ya con esto, el AG (algoritmo genético) va a simular la evolución darwiniana, donde los Norns más aptos para encontrar comida sobrevivirán y se reproducirán, mejorando gradualmente las habilidades de la población a lo largo de las generaciones.
 
-~~**Descripción del ADN: fenotipo y genotipo**~~
-**Algoritmo de la función de aptitud (pseudocódigo explicado)**
-**Algoritmo de Selección (pseudocódigo explicado)**
-**Algoritmo de Crossover (pseudocuódigo explicado)**
-**Algoritmo de Mutación (pseudocódigo explicado)**
-**Parámetros a utilizar (tamaño de población, factor de mutación, etc.)**
-**Condición de final**
-**Composición de la población inicial**
-**Y todo aquello que considere necesario para explicar cómo resolverá el**
-**problema mediante AG.**
+#### **Adicional: 7**. Contenido adicional/referencia sobre Creatures (1996)
 
-**Contenido adicional o de referencia sobre Creatures (1996)**
+![[Imagen de WhatsApp 2025-08-16 a las 20.07.06_a63a33a7.jpg | 400]]
+*Genetics Kit de configuración manual de Norns.*
+
+![[Imagen de WhatsApp 2025-08-16 a las 20.21.43_84f88cae.jpg |500]]
+*Acciones y elementos vinculados a los Norns.*
+
+![[Imagen de WhatsApp 2025-08-16 a las 20.27.02_4aa70f72.jpg | 400]]
+*Paper 1 - Creatures: Artificial Life Autonomous Software Agents for Home Entertainment:* https://svn.sable.mcgill.ca/sable/courses/COMP763/oldpapers/grand-97-creatures.pdf
+
+![[Pasted image 20250816220019.png | 400]]
+*Paper 2 - Creatures: Entertainment Software Agents with Artificial Life:* https://www.researchgate.net/publication/226997131_Creatures_Entertainment_Software_Agents_with_Artificial_Lifef
 
 # Actividad 2
 ## Consigna
