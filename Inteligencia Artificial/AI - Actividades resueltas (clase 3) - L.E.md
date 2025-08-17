@@ -123,7 +123,6 @@ Ya con esto, el AG (algoritmo genético) va a simular la evolución darwiniana, 
 - Blog: https://www.alanzucconi.com/2020/07/27/the-ai-of-creatures/
 - Video: https://www.youtube.com/watch?v=Y-6DzI-krUQ&ab_channel=AlanZucconi
 
-
 # Actividad 2
 Estamos ante el caso de una empresa que está abriendo 2 nuevas oficinas.
 En la primera, en Saveedra, cuenta con 5 espacios y en la segunda, en Pilar,
