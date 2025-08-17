@@ -1,4 +1,4 @@
-#clas_3 #ag_tag 
+#clase_3 #ag_tag 
 
 
 ## **Consulta interesante realizada a Gemini en base al contenido de la clase**

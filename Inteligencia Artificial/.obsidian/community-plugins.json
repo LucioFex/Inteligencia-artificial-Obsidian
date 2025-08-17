@@ -11,5 +11,6 @@
   "mermaid-tools",
   "obsidian-mind-map",
   "obsidian-functionplot",
-  "simple-canvasearch"
+  "simple-canvasearch",
+  "linked-note-exporter"
 ]
