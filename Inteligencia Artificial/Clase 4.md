@@ -3,3 +3,7 @@
 
 ![[Pasted image 20250818185615.png]]
 ![[Pasted image 20250818185516.png]]
+
+
+Tarea
+![[Pasted image 20250818214252.png]]
