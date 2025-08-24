@@ -30,8 +30,10 @@ import seaborn as sns
 
 # Resolución
 
-# Punto 1: Carga y modificación del dataset
+## Punto 1: Carga y modificación del dataset
+### Actividad solicitada
 
+*Cargar el dataset, cambiar el nombre de una columna y modificar, agregar o eliminar al menos una columna*
 ### Documentación del dataset:
 
 | Campo              | Descripción                                                                                                                                                                             |
@@ -47,14 +49,14 @@ import seaborn as sns
 | **remote_ratio**       | The overall amount of work done remotely:<br>• 0 = No remote work (<20%)<br>• 50 = Partially remote<br>• 100 = Fully remote (>80%)                                                      |
 | **company_location**   | The country of the employer's main office or contracting branch (ISO 3166 country code).                                                                                                |
 | **company_size**       | Average number of employees during the year:<br>• S = <50 (small)<br>• M = 50–250 (medium)<br>• L = >250 (large)                                                                        |
-
-### Archivo de Colab: *Clase 4 - Actividad.ipynb*
-```python
-
-```
-
+![[Pasted image 20250823213815.png]]
 ## Punto 2: Resolución de preguntas teóricas
 Lorem ipsum
 ## Punto 3: Pregunta teórica adicional + Gráfico
 Lorem ipsum
+
+## Archivo de Colab: *Clase 4 - Actividad.ipynb*
+```python
+
+```
 
