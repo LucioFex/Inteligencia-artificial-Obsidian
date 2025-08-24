@@ -152,8 +152,9 @@ display(data_scientists_df['company_size'].value_counts())
 ### Pregunta formulada:
 **Pregunta: ¿Cuáles son los 10 países de origen de las empresas que ofrecen los salarios más altos?**
 
-### Gráfica de análisis
+### Gráfico de análisis + Conclusión
 ![[Pasted image 20250824000339.png]]
+El análisis muestra que Qatar (QA) lidera el ranking con el mayor salario promedio en USD, seguido por Israel (IL) y Puerto Rico (PR). En general, los países con economías más desarrolladas o con sectores tecnológicos y energéticos fuertes tienden a ofrecer salarios más altos en comparación con otros.
 ### Código utilizado.
 Se seguirá utilizando el mismo archivo de Colab: *Clase 4 - Actividad.ipynb*.
 ```python
