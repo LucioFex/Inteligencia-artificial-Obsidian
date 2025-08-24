@@ -7,3 +7,7 @@
 
 Tarea
 ![[Pasted image 20250818214252.png]]
+
+---
+
+[[AI - Actividades resueltas (clase 4) - L.E]]
