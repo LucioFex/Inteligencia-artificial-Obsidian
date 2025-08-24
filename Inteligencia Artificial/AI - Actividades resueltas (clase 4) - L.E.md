@@ -32,7 +32,23 @@ import seaborn as sns
 
 # Punto 1: Carga y modificación del dataset
 
-Nombre del archivo: dummy.py
+### Documentación del dataset:
+
+| Campo              | Descripción                                                                                                                                                                             |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **work_year**          | The year the salary was paid.                                                                                                                                                           |
+| **experience_level**   | The experience level in the job during the year:<br>• EN = Entry-level / Junior<br>• MI = Mid-level / Intermediate<br>• SE = Senior-level / Expert<br>• EX = Executive-level / Director |
+| **employment_type**    | The type of employment for the role:<br>• PT = Part-time<br>• FT = Full-time<br>• CT = Contract<br>• FL = Freelance                                                                     |
+| **job_title**          | The role worked in during the year.                                                                                                                                                     |
+| **salary**             | The total gross salary amount paid.                                                                                                                                                     |
+| **salary_currency**    | The currency of the salary paid as an ISO 4217 currency code.                                                                                                                           |
+| **salary_in_usd**      | The salary in USD (FX rate divided by avg. USD rate for the respective year via fxdata.foorilla.com).                                                                                   |
+| **employee_residence** | Employee's primary country of residence during the work year (ISO 3166 country code).                                                                                                   |
+| **remote_ratio**       | The overall amount of work done remotely:<br>• 0 = No remote work (<20%)<br>• 50 = Partially remote<br>• 100 = Fully remote (>80%)                                                      |
+| **company_location**   | The country of the employer's main office or contracting branch (ISO 3166 country code).                                                                                                |
+| **company_size**       | Average number of employees during the year:<br>• S = <50 (small)<br>• M = 50–250 (medium)<br>• L = >250 (large)                                                                        |
+
+### Archivo de Colab: dummy.py
 ```python
 
 ```
