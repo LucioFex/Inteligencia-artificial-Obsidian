@@ -83,7 +83,15 @@ display(df_modificado.head())
 ![[Pasted image 20250823223648.png]]
 
 ## Punto 2: Resolución de preguntas teóricas
-### **a.** ¿Hay datos nulos?  
+Se seguirá utilizando el mismo archivo de Colab + Outputs: *Clase 4 - Actividad.ipynb*.
+### Actividad solicitada
+*Contesten las siguientes preguntas:  2.* 
+    *a. ¿Hay datos nulos?*  
+    *b. ¿Cuál es el promedio, la moda y la mediana del salario?*  
+    *c. ¿Cuántos trabajos únicos hay? ¿Cuál es el trabajo más usual en compañías L?*  
+    *d. ¿Cuántas personas trabajan para una compañía de su mismo país de residencia?*  
+    *e. ¿Cuántos Data Scientist hay por tamaño de compañía?*
+#### **a.** ¿Hay datos nulos?  
 ```python
 # Punto 2.a) ¿Hay datos nulos?  
 
@@ -92,7 +100,7 @@ nulos_sumarizados = df_modificado.isnull().sum()
 display(nulos_sumarizados)
 ```
 ![[Pasted image 20250823234502.png]]
-### **b.** ¿Cuál es el promedio, la moda y la mediana del salario?  
+#### **b.** ¿Cuál es el promedio, la moda y la mediana del salario?  
 ```python
 # Punto 2.b) ¿Cuál es el promedio, la moda y la mediana del salario?
 
@@ -103,7 +111,7 @@ print(f"La mediana del salario en USD es: {salarios_usd.median():.2f}")
 print(f"La moda del salario en USD es: {salarios_usd.mode()[0]:.2f}") # El índice [0] es necesario para que la moda no devuelva un type "Series".
 ```
 ![[Pasted image 20250823234517 1.png]]
-### **c.** ¿Cuántos trabajos únicos hay? ¿Cuál es el trabajo más usual en compañías L? 
+#### **c.** ¿Cuántos trabajos únicos hay? ¿Cuál es el trabajo más usual en compañías L? 
 ```python
 # Punto 2.c) ¿Cuántos trabajos únicos hay? ¿Cuál es el trabajo más usual en compañías L?
 
@@ -118,7 +126,7 @@ cant_trabajo_usual_l = filtro_compañia_l.value_counts().max() # Cantidad de vec
 print(f"El trabajo más usual en compañías 'L' es: {trabajo_usual_l} (cantidad: {cant_trabajo_usual_l})")
 ```
 ![[Pasted image 20250823234533.png]]
-### **d.** ¿Cuántas personas trabajan para una compañía de su mismo país de residencia?
+#### **d.** ¿Cuántas personas trabajan para una compañía de su mismo país de residencia?
 ```python
 # Punto 2.d) ¿Cuántas personas trabajan para una compañía de su mismo país de residencia?
 
@@ -126,7 +134,7 @@ cant_empleados_locales = len(df_modificado[df_modificado['employee_residence'] =
 print(f"Cantidad de personas que trabajan para una compañía en su mismo país de residencia: {cant_empleados_locales}")
 ```
 ![[Pasted image 20250823234549.png]]
-### **e.** ¿Cuántos Data Scientist hay por tamaño de compañía?
+#### **e.** ¿Cuántos Data Scientist hay por tamaño de compañía?
 ```python
 # Punto 2.e) ¿Cuántos Data Scientist hay por tamaño de compañía?
 
@@ -138,6 +146,42 @@ print("Cantidad de Data Scientist por tamaño de compañía:")
 display(data_scientists_df['company_size'].value_counts())
 ```
 ![[Pasted image 20250823234605.png]]
-## Punto 3: Pregunta teórica adicional + Gráfico
-Lorem ipsum
+## Punto 3: Pregunta teórica + Gráfico
+### Actividad
+*Piensen una pregunta. Respondan esa pregunta haciendo un análisis en base a al menos 2 columnas de su elección. Utilicen al menos un gráfico y escriban una conclusión sobre su análisis.*
+### Pregunta formulada:
+**Pregunta: ¿Cuáles son los 10 países de origen de las empresas que ofrecen los salarios más altos?**
 
+### Gráfica de análisis
+![[Pasted image 20250824000339.png]]
+### Código utilizado en Google Colab
+```python
+# Punto 3) Piensen una pregunta. Respondan esa pregunta haciendo un análisis en base a al menos 2 columnas de su elección. Utilicen al menos un gráfico y escriban una conclusión sobre su análisis.
+
+# Pregunta: ¿Cuáles son los 10 países de origen de las empresas que ofrecen los salarios más altos?
+
+# 1. Preparar los datos para el gráfico: Agrupar por país de la compañía y calcular el salario promedio en USD.
+salario_promedio_por_pais = df_modificado.groupby('company_country')['salary_in_usd'].mean()
+
+# 2. Ordenar los datos de mayor a menor salario promedio.
+salario_promedio_por_pais_ordenado = salario_promedio_por_pais.sort_values(ascending=False)
+
+# 3. Crear el gráfico de barras: Generar un gráfico de barras utilizando los datos ordenados.
+plt.figure(figsize=(12, 6))
+
+# Definición del colorcamp para la gráfica.
+cmap = plt.cm.viridis
+
+# Creación de lista de colores para mostrar en el gráfico de barras.
+colores = cmap(np.linspace(0, 1, len(salario_promedio_por_pais_ordenado.head(10))))
+
+salario_promedio_por_pais_ordenado.head(10).plot(kind='bar', color=colores)
+
+# 4. Personalización adicional al gráfico.
+plt.title('Top 10 Países con Mayor Promedio de Salario en USD')
+plt.xlabel('País de la Compañía')
+plt.ylabel('Promedio de Salario en USD')
+plt.xticks(rotation=90)
+plt.tight_layout()
+plt.show()
+```
