@@ -48,7 +48,7 @@ import seaborn as sns
 | **company_location**   | The country of the employer's main office or contracting branch (ISO 3166 country code).                                                                                                |
 | **company_size**       | Average number of employees during the year:<br>• S = <50 (small)<br>• M = 50–250 (medium)<br>• L = >250 (large)                                                                        |
 
-### Archivo de Colab: dummy.py
+### Archivo de Colab: *Clase 4 - Actividad.ipynb*
 ```python
 
 ```
