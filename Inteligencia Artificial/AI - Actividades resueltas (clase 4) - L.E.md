@@ -57,3 +57,4 @@ import seaborn as sns
 Lorem ipsum
 ## Punto 3: Pregunta teórica adicional + Gráfico
 Lorem ipsum
+
