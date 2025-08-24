@@ -154,7 +154,8 @@ display(data_scientists_df['company_size'].value_counts())
 
 ### Gráfica de análisis
 ![[Pasted image 20250824000339.png]]
-### Código utilizado en Google Colab
+### Código utilizado.
+Se seguirá utilizando el mismo archivo de Colab: *Clase 4 - Actividad.ipynb*.
 ```python
 # Punto 3) Piensen una pregunta. Respondan esa pregunta haciendo un análisis en base a al menos 2 columnas de su elección. Utilicen al menos un gráfico y escriban una conclusión sobre su análisis.
 
