@@ -33,7 +33,6 @@
 
 ---
 # Intro -> 2: Algoritmos Genéticos (Conceptos fundamentales de IA/ML)
-![[Pasted image 20251011003109.png]]
 
 ![[Pasted image 20251011003158.png]]
 
