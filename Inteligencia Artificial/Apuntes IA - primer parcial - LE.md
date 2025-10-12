@@ -1,4 +1,4 @@
-**Índice**
+**Índice**:
 ```table-of-contents
 ```
 # Pantallazo de los apuntes
