@@ -1,7 +1,7 @@
 #clase_3 #ag_tag 
 
 
-Este definirlo, no es necesario programarlo. Con pseudo código va
+Este definirlo, no es necesario programarlo. Con pseudo código va:
 ![[Pasted image 20250811211613.png]]
 
 Este si es mejor programarlo.
