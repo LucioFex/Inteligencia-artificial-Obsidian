@@ -1,6 +1,6 @@
 # Trabajo grupal - IA - Noviembre
 
-**Alumnos:** Camila Codina, Isabella Marafioti, Luca Sucri, Luciano Esteban y Martin Garcia
+**Alumnos:** Camila Codina, Isabella Marafioti, Luca Sucri, Luciano Esteban y Martin García
 ### El Problema
 
 Uno de nuestros compañeros trabaja en el área de Contact Center (B2C) para una empresa de telecomunicaciones y nos comentó un desafío común: la alta demanda de llamadas y la dificultad para priorizar a los clientes que requieren atención inmediata. Un cliente enojado o muy angustiado que espera demasiado tiempo puede resultar en la pérdida del cliente.
@@ -21,7 +21,6 @@ Utilizaremos el conjunto de datos RAVDESS (Ryerson Audio-Visual Database of Emot
 **Emociones**: 8 emociones identificadas: neutral, calma, feliz, triste, enojado, temeroso, disgusto, sorprendido.
 
 **Formato de Archivo**: La emoción está identificada por el tercer número en el nombre del archivo (ej. 03-01-**05**-.. sería 'enojado').
-
 
 
 ![[TP_Grupal_Inteligencia_Artificial_UCEMA 1.ipynb]]
