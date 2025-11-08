@@ -24,3 +24,9 @@ Utilizaremos el conjunto de datos RAVDESS (Ryerson Audio-Visual Database of Emot
 
 
 ![[TP_Grupal_Inteligencia_Artificial_UCEMA 1.ipynb]]
+
+---
+
+
+
+
