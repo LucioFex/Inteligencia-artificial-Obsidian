@@ -11,10 +11,14 @@
             "id": "66fab2b56963e850",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Priorización de Llamadas en Contact Center con IA.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Priorización de Llamadas en Contact Center con IA"
             }
           }
         ]
@@ -197,6 +201,9 @@
   },
   "active": "66fab2b56963e850",
   "lastOpenFiles": [
+    "TP_Grupal_Inteligencia_Artificial_UCEMA 1.ipynb",
+    "TP_Grupal_Inteligencia_Artificial_UCEMA.ipynb",
+    "Priorización de Llamadas en Contact Center con IA.md",
     "Anotaciones clase 27.10.25 - IA.md",
     "Apuntes IA - primer parcial - LE.md",
     "Pasted image 20251011005318.png",
@@ -231,8 +238,6 @@
     "Generación de la Población Inicial.md",
     "Selección de padres.md",
     "Selección de los Padres.md",
-    "Optimizando el modelo.md",
-    "Método del Dardo.md",
-    "Entrecruzamiento.md"
+    "Optimizando el modelo.md"
   ]
 }
