@@ -20,7 +20,7 @@ Utilizaremos el conjunto de datos RAVDESS (Ryerson Audio-Visual Database of Emot
 
 **Emociones**: 8 emociones identificadas: neutral, calma, feliz, triste, enojado, temeroso, disgusto, sorprendido.
 
-**Formato de Archivo**: La emoción está identificada por el tercer número en el nombre del archivo (ej. 03-01-**05**-.. sería 'enojado').
+**Formato de Archivo**: La emoción está identificada por el tercer número en el nombre del archivo (ej. 03-01-**05**-.. sería 'enojado')
 
 
 ![[TP_Grupal_Inteligencia_Artificial_UCEMA 1.ipynb]]
